@@ -7,7 +7,8 @@ Today, I tackled a few practical Python projects:
 
 
 2. BMI Calculator
-This script calculates the Body Mass Index (BMI) based on user-provided height and weight.
+
+    This script calculates the Body Mass Index (BMI) based on user-provided height and weight.
 
 
 3. Tip Calculator
